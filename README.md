@@ -23,6 +23,9 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 
 Y otras mas..
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_de_Jesús-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alejandro-de-jesús-san-martin-espinoza-826a631a9)
+
+
 ## 📈Mis Estadisticas
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faradius&show_icons=true&theme=city_lights)](https://github.com/areyouivan/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faradius&show_icons=true&theme=city_lights)|
 |---|---|
