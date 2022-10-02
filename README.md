@@ -5,6 +5,13 @@ Soy desarrollador Android y me encanta programar aplicaciones para dispositivos 
 
 ## 🚀Mis Proyectos 
 Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para seguir aprendiendo en el mundo del desarrollo de dispositivos móviles. Estos son algunos de mis mejores proyectos. 
+
+- [Photo Gallery](https://github.com/faradius/PhotoGallery.git)
+
+- [Photo Gallery]https://github.com/faradius/PhotoGallery.git
+
+
+
 <!--
 **faradius/faradius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
