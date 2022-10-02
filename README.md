@@ -23,6 +23,7 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 
 Y otras mas..
 
+## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_de_Jesús-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-de-jes%C3%BAs-san-martin-espinoza-826a631a9/)
 
 
