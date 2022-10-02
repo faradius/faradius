@@ -6,9 +6,8 @@ Soy desarrollador Android y me encanta programar aplicaciones para dispositivos 
 ## 🚀Mis Proyectos 
 Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para seguir aprendiendo en el mundo del desarrollo de dispositivos móviles. Estos son algunos de mis mejores proyectos. 
 
-- [Photo Gallery](https://github.com/faradius/PhotoGallery.git)
-
-- [Photo Gallery]https://github.com/faradius/PhotoGallery.git
+- [Photo Gallery: Ve las fotos de los perritos mas adorables (MVP-Kotlin)](https://github.com/faradius/PhotoGallery.git)
+- [Movie App: Disfruta de las mejores peliculas (MVVM-Kotlin)](https://github.com/faradius/MovieAppAlpha.git)
 
 
 
