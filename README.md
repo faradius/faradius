@@ -10,7 +10,7 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 - [Horse Chess: Pon a salvo tu caballo en un tablero de Ajedrez (MVC-Juego-Kotlin)](https://github.com/faradius/HorseGame.git)
 - [Photo Gallery: Ve las fotos de los perritos mas adorables (MVP-Kotlin)](https://github.com/faradius/PhotoGallery.git)
 - [Movie App: Disfruta de las mejores peliculas (MVVM-Kotlin)](https://github.com/faradius/MovieAppAlpha.git)
-
+- [UI Profile: visualiza la implementación de un diseño moderno en Android (UI Design - Kotlin)](https://github.com/faradius/LoginUI.git)
 
 <!--
 **faradius/faradius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
