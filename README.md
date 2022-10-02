@@ -23,6 +23,9 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 
 Y otras mas..
 
+## 📈Mis Estadisticas
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faradius&show_icons=true&theme=city_lights)](https://github.com/areyouivan/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faradius&show_icons=true&theme=city_lights)|
+|---|---|
 <!--
 **faradius/faradius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
