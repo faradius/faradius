@@ -1,5 +1,5 @@
 # Hello World! 👋
-![Banner Profile](https://user-images.githubusercontent.com/42056559/193471622-9a50975b-553c-4f68-b0d1-71542e12f321.png)
+![My profile](https://user-images.githubusercontent.com/42056559/193478403-f6980489-ff6b-4be0-9956-f049bbd294f3.png)
 
 Soy desarrollador Android y me encanta programar aplicaciones para dispositivos móviles, la tecnología que mas me gusta trabajar es Kotlin aun que tambien he trabajado con Java, tambien soy competente en base de datos SQL y Firebase. Mi objetivo es crecer como profesional, alcanzar un alto nivel y desempeñar un papel en la arquitectura de software para crear grandes aplicaciones. Trabajo en equipo, comunicación, resolución de problemas y orientación a los detalles son habilidades que me permiten hacer un excelente trabajo.
 
