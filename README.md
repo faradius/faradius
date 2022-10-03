@@ -7,10 +7,10 @@ Soy desarrollador Android y me encanta programar aplicaciones para dispositivos 
 Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para seguir aprendiendo en el mundo del desarrollo de dispositivos móviles. Estos son algunos de mis mejores proyectos. 
 
 - [Canaco App: Hecha un viztazo a la aplicación demo de Canaco (MVC-Java)](https://github.com/faradius/canaco_app.git)
-<!-- - [Horse Chess: Pon a salvo tu caballo en un tablero de Ajedrez (MVC-Juego-Kotlin)](https://github.com/faradius/HorseGame.git)-->
 - [Photo Gallery: Ve las fotos de los perritos mas adorables (MVP-Kotlin)](https://github.com/faradius/PhotoGallery.git)
 - [Movie App: Disfruta de las mejores peliculas (MVVM-Kotlin)](https://github.com/faradius/MovieAppAlpha.git)
 - [UI Profile: visualiza la implementación de un diseño moderno en Android (UI Design - Kotlin)](https://github.com/faradius/LoginUI.git)
+<!-- - [Horse Chess: Pon a salvo tu caballo en un tablero de Ajedrez (MVC-Juego-Kotlin)](https://github.com/faradius/HorseGame.git)-->
 
 ## ⚙ Dominio de Tecnologías
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
