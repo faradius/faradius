@@ -12,7 +12,7 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 - [Uber Clone: una aplicación similar a uber (MVP-Kotlin)](https://github.com/faradius/UberCloneAppKotlin)
 - [Photo Gallery: Ve las fotos de los perritos mas adorables (MVP-Kotlin)](https://github.com/faradius/PhotoGallery.git)
 - [Movie App: Disfruta de las mejores peliculas (MVVM-Kotlin)](https://github.com/faradius/MovieAppAlpha.git)
-- [Dogedex: Busca y conoce a todos los perritos que hay con la Dogedex (Reconocimiento de imagenes con MLM) (MVVM-Kotlin)](https://github.com/faradius/Dogedex)
+- [Dogedex: Busca y conoce a todos los perritos que hay con la Dogedex (Reconocimiento de imagenes con ML) (MVVM-Kotlin)](https://github.com/faradius/Dogedex)
 - [UI Profile: visualiza la implementación de un diseño moderno en Android (UI Design - Kotlin)](https://github.com/faradius/LoginUI.git)
 
 ## ⚙ Dominio de Tecnologías
