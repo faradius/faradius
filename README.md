@@ -9,7 +9,7 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 - [Canaco App: Hecha un viztazo a la aplicación demo de Canaco (MVC-Java)](https://github.com/faradius/canaco_app.git)
 - [Horse Chess: Pon a salvo tu caballo en un tablero de Ajedrez (MVC-Juego-Kotlin)](https://github.com/faradius/HorseGame.git)
 - [Delivery App: Si tienes un negocio con esta app te ayudará a repartir tus pedidos (MVC-Kotlin)](https://github.com/faradius/DeliveryApp)
-- [Uber Clone: una aplicación similar a uber (MVP-Kotlin)](https://github.com/faradius/UberCloneAppKotlin)
+- [Uber Clone: una aplicación similar a uber (MVC-Kotlin)](https://github.com/faradius/UberCloneAppKotlin)
 - [Photo Gallery: Ve las fotos de los perritos mas adorables (MVP-Kotlin)](https://github.com/faradius/PhotoGallery.git)
 - [Movie App: Disfruta de las mejores peliculas (MVVM-Kotlin)](https://github.com/faradius/MovieAppAlpha.git)
 - [Dogedex: Busca y conoce a todos los perritos que hay con la Dogedex (Reconocimiento de imagenes con ML) (MVVM-Kotlin)](https://github.com/faradius/Dogedex)
