@@ -11,8 +11,10 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 - [Delivery App: Si tienes un negocio con esta app te ayudará a repartir tus pedidos (MVC-Kotlin)](https://github.com/faradius/DeliveryApp)
 - [Uber Clone: una aplicación similar a uber (MVC-Kotlin)](https://github.com/faradius/UberCloneAppKotlin)
 - [Photo Gallery: Ve las fotos de los perritos mas adorables (MVP-Kotlin)](https://github.com/faradius/PhotoGallery.git)
-- [Movie App: Disfruta de las mejores peliculas (MVVM-Kotlin)](https://github.com/faradius/MovieAppAlpha.git)
 - [Dogedex: Busca y conoce a todos los perritos que hay con la Dogedex (Reconocimiento de imagenes con ML) (MVVM-Kotlin)](https://github.com/faradius/Dogedex)
+- [Movie App: Disfruta de las mejores peliculas (MVVM con Clean Architecture-Kotlin)](https://github.com/faradius/MovieAppPruebaTecnica.git)
+- [HabitsApp: Lleva el control de tus habitos para tener una vida saludable (MVVM con Clean Architecture Feature Layer-Kotlin) (Offline-First) (Jetpack Compose)](https://github.com/faradius/HabitsApp.git)
+- [TravelGuideAI: Conoce los mejores lugares de la ciudad con el asitente virtual (MVVM con Clean Architecture Feature Layer-Kotlin) (Chat GPT) (Jetpack Compose)](https://github.com/faradius/TravelGuideAI.git)
 - [UI Profile: visualiza la implementación de un diseño moderno en Android (UI Design - Kotlin)](https://github.com/faradius/LoginUI.git)
 
 ## ⚙ Dominio de Tecnologías
