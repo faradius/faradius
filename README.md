@@ -15,6 +15,7 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 - [Movie App: Disfruta de las mejores peliculas (MVVM con Clean Architecture-Kotlin)](https://github.com/faradius/MovieAppPruebaTecnica.git)
 - [HabitsApp: Lleva el control de tus habitos para tener una vida saludable (MVVM con Clean Architecture Feature Layer-Kotlin) (Offline-First) (Jetpack Compose)](https://github.com/faradius/HabitsApp.git)
 - [TravelGuideAI: Conoce los mejores lugares de la ciudad con el asitente virtual (MVVM con Clean Architecture Feature Layer-Kotlin) (Chat GPT) (Jetpack Compose)](https://github.com/faradius/TravelGuideAI.git)
+- [ExpenseApp: Gestiona tus gastos en cualquiera de tus dispositivos (MVVM con Clean Architecture) (Kotlin Multiplataforma) (Jetpack Compose Multiplataforma)](https://github.com/faradius/ExpensesApp-KMP.git)
 - [UI Profile: visualiza la implementación de un diseño moderno en Android (UI Design - Kotlin)](https://github.com/faradius/LoginUI.git)
 
 ## ⚙ Dominio de Tecnologías
