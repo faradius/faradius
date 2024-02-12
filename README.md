@@ -4,7 +4,7 @@
 Soy desarrollador Android y me encanta programar aplicaciones para dispositivos móviles, la tecnología que mas me gusta trabajar es Kotlin aun que tambien he trabajado con Java, tambien soy competente en base de datos SQL y Firebase. Mi objetivo es crecer como profesional, alcanzar un alto nivel y desempeñar un papel en la arquitectura de software para crear grandes aplicaciones. Trabajo en equipo, comunicación, resolución de problemas y orientación a los detalles son habilidades que me permiten hacer un excelente trabajo.
 
 ## 🚀Mis Proyectos 
-Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para seguir aprendiendo en el mundo del desarrollo de dispositivos móviles. Estos son algunos de mis mejores proyectos (En desarrollo). 
+Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para seguir aprendiendo en el mundo del desarrollo de dispositivos móviles. Estos son algunos de mis mejores proyectos. 
 
 - [Canaco App: Hecha un viztazo a la aplicación demo de Canaco (MVC-Java)](https://github.com/faradius/canaco_app.git)
 - [Horse Chess: Pon a salvo tu caballo en un tablero de Ajedrez (MVC-Juego-Kotlin)](https://github.com/faradius/HorseGame.git)
@@ -16,7 +16,6 @@ Me encanta hacer varios proyectos para aumentar mis habilidades y técnicas para
 - [HabitsApp: Lleva el control de tus habitos para tener una vida saludable (MVVM con Clean Architecture Feature Layer-Kotlin) (Offline-First) (Jetpack Compose)](https://github.com/faradius/HabitsApp.git)
 - [TravelGuideAI: Conoce los mejores lugares de la ciudad con el asitente virtual (MVVM con Clean Architecture Feature Layer-Kotlin) (Chat GPT) (Jetpack Compose)](https://github.com/faradius/TravelGuideAI.git)
 - [ExpenseApp: Gestiona tus gastos en cualquiera de tus dispositivos (MVVM con Clean Architecture) (Kotlin Multiplataforma) (Jetpack Compose Multiplataforma)](https://github.com/faradius/ExpensesApp-KMP.git)
-- [UI Profile: visualiza la implementación de un diseño moderno en Android (UI Design - Kotlin)](https://github.com/faradius/LoginUI.git)
 
 ## ⚙ Dominio de Tecnologías
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
